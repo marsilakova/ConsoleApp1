@@ -1,1 +1,1 @@
-Det är mitt miniprojekt C-Charp.NET på Lexicon veecka 43
+Det är mitt miniprojekt C-Charp.NET på Lexicon vecka 43
